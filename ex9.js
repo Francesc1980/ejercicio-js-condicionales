@@ -7,7 +7,9 @@
  */
 
 let soyDeBarcelona = true;
+    soyDeBarcelona =true;
 let tengoSegundaResidencia = true;
+    tengoSegundaResidencia=false;
 
 /** NO TOCAR A PARTIR DE AQUÍ */
 if (soyDeBarcelona && !tengoSegundaResidencia) {

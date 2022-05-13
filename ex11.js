@@ -4,8 +4,11 @@
  */
 
 // Pregunta 1: Contesta y razona: qué línea de código se va a ejecutar ? Ejecuta el código. Qué línea se ha ejecutado finalmente?
+//no sale el nombre en el formulario porque no esta definido y  luego si pones tu nombre se muestra
 
-let nombre = ""; // Un formulario nos pide que pongamos nuestro nombre
+
+
+let nombre = "Francisco"; // Un formulario nos pide que pongamos nuestro nombre
 
 if (nombre) {
     console.log("tu nombre es " + nombre);

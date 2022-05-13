@@ -8,10 +8,13 @@ let numero = 0;
 if (numero > 0) {
     console.log("El número es mayor de 0.");
 }
+ numero = 105;
 
 if (numero > 100) {
     console.log("El número es mayor de 100.")
 }
+
+ numero = 600;
 
 if (numero > 500) {
     console.log("El número es mayor de 500.")

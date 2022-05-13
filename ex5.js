@@ -7,6 +7,13 @@
 
 let numero = 5;
 
+if (numero > 5){
+mayor que =("5")
+}
+else (numero < 5){
+menor que =("4");
+}
+
 // AQUÍ TU CÓDIGO. Necesitas codificar una estructura if...else. Mira los ejemplos anteriores. Cambia el valor de la variable "numero" para comprobar que has implementado bien la solución https://www.w3schools.com/js/js_if_else.asp
 
 

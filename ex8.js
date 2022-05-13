@@ -8,6 +8,7 @@
  */
 
 let nombre = "Alex";
+nombre ="pedro";
 
 /**NO TOCAR A PARTIR DE AQUÍ */
 if (nombre != "Alex") {
