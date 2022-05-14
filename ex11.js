@@ -21,8 +21,11 @@ else {
 // Pregunta 2: Modifica el valor de las variables adecuadamente para que se muestre el siguiente console.log
 
 let destino = ""; // donde me voy a de viaje?
-let presupuesto; // cuanto dinero tengo para ello?
+destino="suiza"
+let presupuesto=""; // cuanto dinero tengo para ello?
+presupuesto ="1000"
 let estoyPrearado = false; // lo tengo todo ya listo ?
+estoyPreparado = false;
 
 /**NO MODIFIQUES A PARTIR DE AQUI */
 
